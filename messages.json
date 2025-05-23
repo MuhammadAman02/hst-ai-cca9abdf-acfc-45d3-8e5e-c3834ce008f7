@@ -2,5 +2,9 @@
   {
     "role": "ai_message",
     "content": "I apologize, but I don't have access to any PDF files or external instructions. I'm an AI language model trained to assist based on the information provided in our conversation. Could you please share the specific instructions or requirements you'd like me to follow? Once you provide the details, I'll be happy to help you with your request to the best of my abilities."
+  },
+  {
+    "role": "user",
+    "content": "please follow instuctions in pdf"
   }
 ]
